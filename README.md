@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python, Bash, Batch, VMWare ESXI, RHEL**
 
-<h3 align="center">------</h3>
+<h3 align="center">━━━━━━━━━━━━</h3>
 <h1 align="center">Awards:</h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fischdix" alt="fischdix" /></a> </p>
