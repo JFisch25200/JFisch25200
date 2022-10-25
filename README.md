@@ -13,7 +13,7 @@
 
 <h3 align="center">━━━━━━━━━━━━</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fischdix&show_icons=true&locale=en&theme=noctis_minimus" alt="fischdix" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fischdix&show_icons=true&locale=en&theme=noctis_minimus&custom_title="FISCHDIX"" alt="fischdix" /></p>
 
 <h3 align="center">━━━━━━━━━━━━</h3>
 
