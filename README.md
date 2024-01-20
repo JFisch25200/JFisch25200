@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [Python Projects](https://github.com/Fischdix/project)
 
-- 📝 I regularly write articles on **https://ticrgroup.com/blog**
-
-- 🔭 I’m currently working on [Bash and Batch automation](https://github.com/Fischdix/AutomationProjects)
+- 🔭 I’m currently working on [Bash and Batch automation](https://github.com/Fischdix/AutomationProjects) and [Ansible](https://github.com/Fischdix/ansible-playbooks)
 
 - 🌱 I’m currently learning **Python, Bash, Batch, VMWare ESXI, RHEL**
 
