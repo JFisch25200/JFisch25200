@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Fischdix</h1>
+<h1 align="center">Hi 👋, I'm JFisch25200</h1>
 <h3 align="center">A passionate security researcher and tech nerd from The United States</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=fischdix&label=Profile%20views&color=0e75b6&style=flat" alt="fischdix" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=fischdix&label=Profile%20views&color=0e75b6&style=flat" alt="JFisch25200" /> </p>
 
-- 🔭 I’m currently working on [Python Projects](https://github.com/Fischdix/project)
+- 🔭 I’m currently working on [Python Projects](https://github.com/JFisch25200/project)
 
-- 🔭 I’m currently working on [Bash and Batch automation](https://github.com/Fischdix/AutomationProjects) and [Ansible](https://github.com/Fischdix/ansible-playbooks)
+- 🔭 I’m currently working on [Bash and Batch automation](https://github.com/JFisch25200/AutomationProjects) and [Ansible](https://github.com/JFisch25200/ansible-playbooks)
 
 - 🌱 I’m currently learning **Python, Bash, Batch, VMWare ESXI, RHEL**
 
@@ -19,12 +19,9 @@
 
 <h3 align="center">Support:</h3>
 <p align="center">
-<a href="https://www.buymeacoffee.com/fischdix"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="175" alt="fischdix" /></a><a href="https://ko-fi.com/fischdix"><img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="175" alt="fischdix" /></a></p><br><br>
 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://stackoverflow.com/users/fischdix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fischdix" height="30" width="40" /></a>
-<a href="https://instagram.com/ticr.group" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ticr.group" height="30" width="40" /></a>
-<a href="https://discord.gg/thecove" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thecove" height="30" width="40" /></a>
 </p>
